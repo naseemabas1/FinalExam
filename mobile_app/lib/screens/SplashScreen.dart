@@ -37,12 +37,12 @@ class _MyHomePageState extends State<MyHomePage> {
                 child: new Image.asset('profile.png')),
             SizedBox(height: 20),
             Text(
-              "Muhammad Saqib Ameen",
+              "Naseem Abass",
               style: TextStyle(fontSize: 25, fontWeight: FontWeight.bold),
             ),
             SizedBox(height: 20),
             FadeAnimatedTextKit(
-              text: ["FA17-BCS-126", "BSCS-B15", "Section B", "Final Exam"],
+              text: ["FA17-BCS-071", "BSCS-B15", "Section B", "Final Exam"],
               textStyle:
               TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
             ),

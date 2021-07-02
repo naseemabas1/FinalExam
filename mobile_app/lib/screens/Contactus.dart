@@ -36,7 +36,7 @@ class Contactus extends StatelessWidget {
                   backgroundImage: AssetImage('assets/profile.png'),
                 ),
                 Text(
-                  'Muhammad Saqib Ameen',
+                  'Naseem Abbas',
                   style: TextStyle(
 
                     fontWeight: FontWeight.bold,
@@ -45,7 +45,7 @@ class Contactus extends StatelessWidget {
                   ),
                 ),
                 Text(
-                  'FA17-BCS-126',
+                  'FA17-BCS-071',
                   style: TextStyle(
                     fontFamily: 'SourceSansPro',
                     fontSize: 18.0,
